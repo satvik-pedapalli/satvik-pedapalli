@@ -1,10 +1,15 @@
-# Welcome to Satvik Pedapalli's Cybersecurity Portfolio
+ # Welcome to Satvik Pedapalli's Cybersecurity Portfolio
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=satvik-pedapalli&color=blue) ![GitHub Stars](https://img.shields.io/github/stars/satvik-pedapalli?style=social) ![Followers](https://img.shields.io/github/followers/satvik-pedapalli?style=social)
 
 ---
 
-### **About Me** ![Cybersecurity Professional](https://via.placeholder.com/1200x400?text=Satvik+Pedapalli+|+Cybersecurity+Aspirant)  
+### **About Me** <p align="left">
+  <img src="https://img.shields.io/badge/Role-VAPT%20Analyst-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%202025-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AppSec%20%26%20SAST-green?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
 Hi! I'm **Satvik Pedapalli**, a **B.Tech graduate (2025)** transitioning into the Cybersecurity domain with a focus on:
 - 🛡 **Vulnerability Assessment and Penetration Testing (VAPT)**
 - 💻 **Application Security & Static Analysis (SAST)**
@@ -15,7 +20,14 @@ I am a detail-oriented professional dedicated to identifying security weaknesses
 
 ---
 
-### **Core Competencies** ![Cybersecurity Skills](https://via.placeholder.com/1200x400?text=Cybersecurity+Skills+&+Competencies)
+### **Core Competencies**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-white?style=flat-square&logo=owasp&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Expertise-orange?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Static%20Analysis-SonarQube%20%26%20Snyk-blue?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-Nmap-lightgrey?style=flat-square&logo=wireshark&logoColor=blue" />
+</p>
 
 - **Vulnerability Assessment**: Practical exposure to identifying and validating security vulnerabilities in alignment with industry standards (OWASP, CVSS).
 - **Application Security**: Proficient in performing static code analysis (SAST) and dependency scanning using tools like SonarQube and Snyk.
@@ -63,6 +75,6 @@ I am a detail-oriented professional dedicated to identifying security weaknesses
 
 ---
 
-### **Contact Me** 💌 **Email**: [pedapallisatvik.2003@gmail.com](mailto:pedapallisatvik.2003@gmail.com)
-🔗 **LinkedIn**: [linkedin.com/in/satvik-pedapalli](https://www.linkedin.com/in/satvik-pedapalli) 
+### **Contact Me** 💌 **Email**: [pedapallisatvik.2003@gmail.com](mailto:pedapallisatvik.2003@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/satvik-pedapalli](https://www.linkedin.com/in/satvik-pedapalli)  
 🌐 **GitHub**: [github.com/satvik-pedapalli](https://github.com/satvik-pedapalli)
