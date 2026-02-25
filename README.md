@@ -36,17 +36,22 @@ I am a detail-oriented professional dedicated to identifying security weaknesses
 
 ---
 
-### **Featured Research & Projects** #### **1. Static Application Security Testing (SAST)** 📌 *Utilizing SonarQube, Snyk, and Semgrep to identify code-level vulnerabilities.*
-- **Focus**: Identifying hardcoded secrets, SQL injection risks, and vulnerable dependencies.
-- **Impact**: Enhancing software security posture during the development lifecycle.  
+### **🚀 Featured Research & Projects**
 
-#### **2. Network Discovery & Enumeration** 📌 *Conducting VAPT on network lab environments aligned with industry standards.*
-- **Focus**: Performing service enumeration and reconnaissance using Nmap and Wireshark.
-- **Impact**: Mapping attack surfaces and identifying misconfigured services.
+> [!IMPORTANT]
+> **1. Static Application Security Testing (SAST)** > 📌 *Utilizing SonarQube, Snyk, and Semgrep to identify code-level vulnerabilities.*
+> - **Focus**: Identifying hardcoded secrets, SQL injection risks, and vulnerable dependencies.
+> - **Impact**: Enhancing software security posture during the development lifecycle.
 
-#### **3. Web Application Security** 📌 *Practicing web penetration testing based on OWASP Top 10 standards.*
-- **Focus**: Utilizing Burp Suite for vulnerability identification and exploitation techniques.
-- **Impact**: Strengthening practical skills in identifying web-based security flaws.
+> [!TIP]
+> **2. Network Discovery & Enumeration** > 📌 *Conducting VAPT on network lab environments aligned with industry standards.*
+> - **Focus**: Performing service enumeration and reconnaissance using Nmap and Wireshark.
+> - **Impact**: Mapping attack surfaces and identifying misconfigured services.
+
+> [!NOTE]
+> **3. Web Application Security** > 📌 *Practicing web penetration testing based on OWASP Top 10 standards.*
+> - **Focus**: Utilizing Burp Suite for vulnerability identification and exploitation techniques.
+> - **Impact**: Strengthening practical skills in identifying web-based security flaws.
 
 ---
 
@@ -67,5 +72,13 @@ I am a detail-oriented professional dedicated to identifying security weaknesses
 
 ---
 
-### **Profile Stats** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satvik-pedapalli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-pedapalli&layout=compact&theme=radical)
+### **📊 Profile Stats**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satvik-pedapalli&show_icons=true&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-pedapalli&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik-pedapalli&theme=radical&hide_border=false" />
+</p>
