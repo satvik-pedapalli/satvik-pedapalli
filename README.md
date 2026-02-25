@@ -64,4 +64,5 @@ I am a detail-oriented professional dedicated to identifying security weaknesses
 ---
 
 ### **Contact Me** 💌 **Email**: [pedapallisatvik.2003@gmail.com](mailto:pedapallisatvik.2003@gmail.com)
-🔗
+🔗 **LinkedIn**: [linkedin.com/in/satvik-pedapalli](https://www.linkedin.com/in/satvik-pedapalli) 
+🌐 **GitHub**: [github.com/satvik-pedapalli](https://github.com/satvik-pedapalli)
